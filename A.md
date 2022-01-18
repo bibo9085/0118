@@ -53,3 +53,6 @@ def date();
 
 ![史努比](https://miro.medium.com/max/1400/1*Y4EDX48LsTKGzhr9EyTPKA.png)
 
+
+![蠟筆小新](./A.jpg)
+
